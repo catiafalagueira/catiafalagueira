@@ -7,7 +7,8 @@ I'm a Fullstack developer from Portugal 🇵🇹.
   <a href="mailto:catia.falagueira@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
  
 ### Tools and technologies
-<div align='center'>
+
+<div align='left'>
   <img src="https://img.shields.io/badge/Tool-Office365-informational?style=flat&logo=microsoftoffice&logoColor=d33903&color=d33903">
   <img src="https://img.shields.io/badge/Tool-Canva-informational?style=flat&logo=canva&logoColor=00bec6&color=00bec6">
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=dd8a04&color=dd8a04">
